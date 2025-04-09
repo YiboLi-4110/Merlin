@@ -1,4 +1,4 @@
-# Merlin.github.io
+# Merlin
 ## Development of 2D Game
 ## Professor
 - Kelvin SUNG
