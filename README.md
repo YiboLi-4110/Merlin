@@ -11,6 +11,8 @@
 - **Enjoy yourself**
 
 ## Game's Splendid Moments
+[游戏精彩瞬间集锦](https://www.bilibili.com/video/BV1i5QBYBEwg/?vd_source=b0d1dd10fcd3289aa9583d9cb680fb64)
+
 <table style="margin: 0 auto;">
   <tr>
     <td>
