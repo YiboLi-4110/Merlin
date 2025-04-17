@@ -10,7 +10,7 @@
 - __Beat__ the enemies
 - **Enjoy yourself**
 
-## Game's Splendid Moment
+## Game's Splendid Moments
 <table style="margin: 0 auto;">
   <tr>
     <td>
