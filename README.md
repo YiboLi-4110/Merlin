@@ -9,7 +9,7 @@
 - Create your __own__ magic arts
 - __Beat__ the enemies
 - **Enjoy yourself**
-- 
+
 ## Game's Splendid Moment
 <table style="margin: 0 auto;">
   <tr>
