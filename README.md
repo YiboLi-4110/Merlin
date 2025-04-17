@@ -3,7 +3,7 @@
 ## Professor
 - Kelvin SUNG
 - 唐亚哲
-- 
+
 ## Merlin
 - Explore __a diversity of__ magic elements
 - Create your __own__ magic arts
