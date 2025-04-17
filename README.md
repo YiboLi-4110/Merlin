@@ -3,11 +3,13 @@
 ## Professor
 - Kelvin SUNG
 - 唐亚哲
+- 
 ## Merlin
 - Explore __a diversity of__ magic elements
 - Create your __own__ magic arts
 - __Beat__ the enemies
 - **Enjoy yourself**
+- 
 ## Game's Splendid Moment
 <table style="margin: 0 auto;">
   <tr>
@@ -24,8 +26,11 @@
     </td>
   </tr>
 </table>
+
 ## Xi'an Jiaotong University
+
 ## Computer Experimental Class 2301
+
 ## Team3 Membership:
 - 刘添毅
 - 杨子航
