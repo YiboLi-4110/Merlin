@@ -35,7 +35,7 @@
 
 ## Computer Experimental Class 2301
 
-## Team3 Membership:
+## Team Membership:
 - 刘添毅
 - 杨子航
 - 张晟祺
