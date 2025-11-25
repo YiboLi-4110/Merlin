@@ -29,6 +29,8 @@
   </tr>
 </table>
 
+## 游戏已经打包为可执行程序，可以直接在**Release**中下载
+
 ## Xi'an Jiaotong University
 
 ## Computer Experimental Class 2301
