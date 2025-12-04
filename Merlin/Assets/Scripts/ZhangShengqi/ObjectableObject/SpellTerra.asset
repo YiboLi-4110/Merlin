@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada14b8ec27256c42827fabf6529fae3, type: 3}
+  m_Name: SpellTerra
+  m_EditorClassIdentifier: 
+  ElementInfo: 00000000000000000200000000000000
+  NameInfo: TerraBullet
+  FuncInfo: bullet of Erath
+  sprite: {fileID: 21300000, guid: 46ba00c8d65ab9145943253bc80e9a01, type: 3}
+  Isactivated: 0
+  IsBullet: 1
+  IsComponent: 0
+  TypeName: SpellEntity_Terrabullet

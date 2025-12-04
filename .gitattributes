@@ -1,0 +1,26 @@
+# Unity use LF
+* text=auto eol=lf
+
+# text
+*.cs text
+*.js text  
+*.json text
+*.xml text
+*.txt text
+*.md text
+*.asset text
+*.meta text
+*.anim text
+*.prefab text
+*.unity text
+*.shader text
+*.cginc text
+*.hlsl text
+
+# binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.fbx binary
+*.blend binary

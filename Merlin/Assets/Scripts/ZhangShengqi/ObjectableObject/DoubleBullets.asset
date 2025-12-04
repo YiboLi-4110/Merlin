@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada14b8ec27256c42827fabf6529fae3, type: 3}
+  m_Name: DoubleBullets
+  m_EditorClassIdentifier: 
+  ElementInfo: 03000000030000000300000003000000
+  NameInfo: "\u4E24\u4E2A\u5B50\u5F39"
+  FuncInfo: "\u4E00\u6B21\u53CC\u53D1"
+  sprite: {fileID: 21300000, guid: caf38f13320dab54182bf05130016b8b, type: 3}
+  Isactivated: 0
+  IsBullet: 0
+  IsComponent: 1
+  TypeName: SpellLogical_double
