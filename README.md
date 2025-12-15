@@ -51,4 +51,4 @@ Team members:
 - 👨‍🎓 [Tianyi Liu](https://github.com/Leotydk671)  
 - 👨‍🎓 Zihang Yang  
 - 👨‍🎓 Shengqi Zhang  
-- 👨‍🎓 [Yibo Li](https://github.com/Yibo-Li4110)
+- 👨‍🎓 [Yibo Li](https://github.com/YiboLi-4110)
