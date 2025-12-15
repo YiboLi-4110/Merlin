@@ -39,7 +39,7 @@
 - Unzip the game file and run `Merlin.exe` to start your journey! (need Windows Operating System)
 - We provide detailed game instructions in the login interface👇.
 
-<img src='./images/login.png' alt='login interface' width='400' height='220'>
+<img src='./images/login.png' alt='login interface' width='600' height='320'>
 
 ### Game's Splendid Moments
 [Splendid Moments](https://www.bilibili.com/video/BV1i5QBYBEwg/?vd_source=b0d1dd10fcd3289aa9583d9cb680fb64)
