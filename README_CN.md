@@ -39,7 +39,7 @@
 - 解压游戏文件并运行 `Merlin.exe` 开始你的冒险！（需要Windows操作系统）
 - 我们在登录界面提供了详细的游戏说明👇
 
-![登录界面](./images/login.png)
+<img src='./images/login.png' alt='登陆界面' width='400' height='220'>
 
 ### 游戏精彩瞬间
 [精彩瞬间集锦](https://www.bilibili.com/video/BV1i5QBYBEwg/?vd_source=b0d1dd10fcd3289aa9583d9cb680fb64)
