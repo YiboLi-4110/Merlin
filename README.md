@@ -1,18 +1,4 @@
-# Merlin
-## Development of 2D Game
-## Professor
-- Kelvin SUNG
-- 唐亚哲
-
-## Merlin
-- Explore __a diversity of__ magic elements
-- Create your __own__ magic arts
-- __Beat__ the enemies
-- **Enjoy yourself**
-
-## Game's Splendid Moments
-[游戏精彩瞬间集锦](https://www.bilibili.com/video/BV1i5QBYBEwg/?vd_source=b0d1dd10fcd3289aa9583d9cb680fb64)
-
+# Introduction to 2D Game Development
 <table style="margin: 0 auto;">
   <tr>
     <td>
@@ -29,14 +15,40 @@
   </tr>
 </table>
 
-## The game has been packaged as an executable program and can be directly downloaded from the `Release`
+---
 
-## Xi'an Jiaotong University
+## COMP561405
+### Basic Information
+- Course Homepage([Click here](https://html5gameenginegroup.github.io/GTCS-Engine-Student-Projects/2025.3.XJTU/index.html))
+- Xi'an Jiaotong University, Computer Experimental Class 2301, 2024-2025 Semester 2
+- Repository *Merlin* is the final project,including source code and executable game file for downloading.
 
-## Computer Experimental Class 2301
+### Professor
+- 🧑‍🏫 [Kelvin SUNG](https://faculty.washington.edu/ksung/)
+- 🧑‍🏫 [Yazhe Tang](https://gr.xjtu.edu.cn/web/yztang)
 
-## Team Membership:
-- 刘添毅
-- 杨子航
-- 张晟祺
-- 李奕博
+---
+
+## Merlin
+- Be your own magician 🧙
+- Explore __a diversity of__ magic elements and 🪄 create your __own__ magic arts
+- Travel through __different magical worlds__ and __defeat__ perilous enemies 🦹
+
+### How to Play
+- Download the game file `Merlin_v0.1.0_Windows.zip` from the **release**.
+- Unzip the game file and run `Merlin.exe` to start your journey! (need Windows Operating System)
+- We provide detailed game instructions in the login interface👇.
+
+![login interface](./images/login.png)
+
+### Game's Splendid Moments
+[Splendid Moments](https://www.bilibili.com/video/BV1i5QBYBEwg/?vd_source=b0d1dd10fcd3289aa9583d9cb680fb64)
+
+
+### Our Team
+💪 Team Merlin, consisting of 4 undergraduates in XJTU, spare no effort to create their own computer magic. 
+Team members:
+- 👨‍🎓 [Tianyi Liu](https://github.com/Leotydk671)  
+- 👨‍🎓 Zihang Yang  
+- 👨‍🎓 Shengqi Zhang  
+- 👨‍🎓 [Yibo Li](https://github.com/Yibo-Li4110)
