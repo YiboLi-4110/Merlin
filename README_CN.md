@@ -50,5 +50,5 @@
 团队成员：
 - 👨‍🎓 [刘添毅](https://github.com/Leotydk671)  
 - 👨‍🎓 杨子航
-- 👨‍🎓 张晟祺
+- 👨‍🎓 [张晟祺](https://github.com/bavarianvilliager)
 - 👨‍🎓 [李奕博](https://github.com/YiboLi-4110)
